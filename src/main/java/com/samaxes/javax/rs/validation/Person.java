@@ -2,7 +2,7 @@
  * $Id$
  *
  * JAX-RS Bean Validation I18N
- * https://github.com/samaxes/jaxrs-beanvalidation
+ * https://github.com/samaxes/jaxrs-beanvalidation-javaee6
  *
  * Copyright (c) 2012 samaxes.com
  *
@@ -18,7 +18,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.samaxes.rs.beanvalidation;
+package com.samaxes.javax.rs.validation;
 
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;

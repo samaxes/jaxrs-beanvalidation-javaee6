@@ -3,14 +3,14 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.samaxes.rs</groupId>
-    <artifactId>beanvalidation</artifactId>
+    <groupId>com.samaxes.javax</groupId>
+    <artifactId>jaxrs-beanvalidation-javaee6</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>JAX-RS Bean Validation I18N</name>
-    <description>JAX-RS Bean Validation Error Message Internationalization</description>
-    <url>https://github.com/samaxes/jaxrs-beanvalidation</url>
+    <name>Integrating Bean Validation with JAX-RS in Java EE 6</name>
+    <description>Integrate Bean Validation with JAX-RS and internationalize error messages using JBoss' proprietary implementations</description>
+    <url>https://github.com/samaxes/jaxrs-beanvalidation-javaee6</url>
     <inceptionYear>2012</inceptionYear>
     <organization>
         <name>samaxes</name>
@@ -39,12 +39,12 @@
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/samaxes/jaxrs-beanvalidation/issues</url>
+        <url>https://github.com/samaxes/jaxrs-beanvalidation-javaee6/issues</url>
     </issueManagement>
     <scm>
-        <connection>scm:git:git://github.com/samaxes/jaxrs-beanvalidation.git</connection>
-        <developerConnection>scm:git:git@github.com:samaxes/jaxrs-beanvalidation.git</developerConnection>
-        <url>https://github.com/samaxes/jaxrs-beanvalidation</url>
+        <connection>scm:git:git://github.com/samaxes/jaxrs-beanvalidation-javaee6.git</connection>
+        <developerConnection>scm:git:git@github.com:samaxes/jaxrs-beanvalidation-javaee6.git</developerConnection>
+        <url>https://github.com/samaxes/jaxrs-beanvalidation-javaee6</url>
     </scm>
 
     <prerequisites>
@@ -60,7 +60,7 @@
     </repositories>
 
     <build>
-        <finalName>jaxrs-beanvalidation</finalName>
+        <finalName>jaxrs-beanvalidation-javaee6</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

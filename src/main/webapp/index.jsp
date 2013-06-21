@@ -3,9 +3,8 @@
 <html>
 <head>
     <meta charset="UTF-8" />
-    <title>JAX-RS Bean Validation I18N</title>
+    <title>Integrating Bean Validation with JAX-RS in Java EE 6</title>
     <!-- CSS -->
-    <link rel="stylesheet" href="style.css" />
     <style>
         section {
             background: #f6f6f6;
@@ -16,7 +15,7 @@
 </head>
 <body>
     <header>
-        <h1>JAX-RS Bean Validation Error Message Internationalization</h1>
+        <h1>Integrating Bean Validation with JAX-RS in Java EE 6</h1>
     </header>
     <main>
         <section>
